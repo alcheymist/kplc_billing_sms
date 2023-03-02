@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kplc_billing_sms</string>
+    <string name="send_mess">Send</string>
+    <string name="retrieve_mess">Retrieve</string>
+    <string name="post">Post</string>
+    <string name="get_account_numbers_amp_send"><![CDATA[Get Account Numbers & Send]]></string>
+    <string name="clear">clear</string>
+    <string name="send_multiple">Send Multiple</string>
+    <string name="sent_success">message sent successfully!</string>
+    <string name="ok">OK</string>
+</resources>
